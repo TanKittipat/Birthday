@@ -12,6 +12,7 @@ function App() {
     <>
       <div>
         <h1>Workshop 1 : Birthday List Project</h1>
+        <h3>Kittipat Choowongwan 65/45 654259023</h3>
         <main>
           <section className="container">
             <h3>{People.length} Birthday Today</h3>
